@@ -1,4 +1,4 @@
-- name: Upgrade sudo to the vevrsion
+- name: fpgrade sudo to the latest vevrs
   apt:
     name: apt
     state: latest
