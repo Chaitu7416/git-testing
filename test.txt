@@ -1,0 +1,4 @@
+- name: Upgrade sudo to the latest vevrsion
+  apt:
+    name: sudo
+    state: latest
